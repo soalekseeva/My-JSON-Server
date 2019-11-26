@@ -1,0 +1,12 @@
+github.com/user/repo/master/db.json
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
